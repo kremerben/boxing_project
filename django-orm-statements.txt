@@ -1,0 +1,46 @@
+Organization.objects.create(name='', acronym='', location='', est_date='')
+
+
+
+Organization.objects.create(name='British Boxing Board of Control', acronym='BBBoC', location='Great Britain', est_date='1929')
+Organization.objects.create(name='World Boxing Association', acronym='WBA', location='International', est_date='1962')
+Organization.objects.create(name='World Boxing Council', acronym='WBC', location='International', est_date='1963')
+
+
+Organization.objects.create(name='Boxing Union of Ireland', acronym='BUI', location='Ireland', est_date='1980')
+
+Organization.objects.create(name='International Boxing Federation', acronym='IBF', location='International', est_date='1983')
+
+Organization.objects.create(name='World Boxing Organization', acronym='WBO', location='International', est_date='1988')
+
+Organization.objects.create(name='International Boxing Council', acronym='IBC', location='International', est_date='1990')
+
+Organization.objects.create(name='International Women's Boxing Federation', acronym='IWBF', location='International', est_date='1992')
+
+Organization.objects.create(name='International Boxing Organization', acronym='IBO', location='International', est_date='1993')
+
+Organization.objects.create(name='Women's International Boxing Federation', acronym='WIBF', location='International', est_date='1995')
+
+Organization.objects.create(name='World Boxing Union', acronym='WBU', location='International', est_date='1995')
+
+Organization.objects.create(name='International Boxing Association', acronym='IBA', location='International', est_date='1996')
+
+Organization.objects.create(name='International Boxing Union', acronym='IBU', location='International', est_date='1996')
+
+Organization.objects.create(name='International Female Boxers Association', acronym='IFBA', location='International', est_date='1997')
+
+Organization.objects.create(name='World Professional Boxing Federation', acronym='WPBF', location='International', est_date='1998')
+
+Organization.objects.create(name='Global Boxing Council', acronym='GBC', location='International', est_date='1999')
+
+Organization.objects.create(name='Women's International Boxing Association', acronym='WIBA', location='International', est_date='2000')
+
+Organization.objects.create(name='World Boxing Foundation', acronym='WBF', location='International', est_date='2004')
+
+Organization.objects.create(name='Trans America Boxing', acronym='TAB', location='America', est_date='2005')
+
+Organization.objects.create(name='Global Boxing Union', acronym='GBU', location='International', est_date='2005')
+
+ WBU World Boxing Union - Europe – 2013
+ ABA (Amateur Boxing Association of England) - 1880
+ AIBA (International Boxing Association) - 1946
